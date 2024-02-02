@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+<<<<<<< HEAD
 
 The Tic Tac Toe game is implemented in HTML, CSS, and JavaScript.
 Table of Contents
@@ -44,3 +45,17 @@ The game follows standard Tic Tac Toe rules, where players take turns placing th
 5. Responsive Design <a name="responsive-design"></a>
 
 The game is designed to be responsive, with specific styles for smaller screens (max-width: 480px). This ensures a consistent user experience across different devices.
+=======
+Tic-Tac-Toe is a classic two-player game where the objective is to create a line of three of your own symbols (either "X" or "O") horizontally, vertically, or diagonally on a 3x3 grid.
+
+Game Board: The game is played on a 3x3 grid.
+Players: There are two players in the game, typically represented by "X" and "O."
+Turns: Players take turns to place their symbol ("X" or "O") on an empty cell of the grid.
+Objective: The goal is to create a line of three of your own symbols either horizontally, vertically, or diagonally.
+Winning: The player who successfully forms a line of three of their symbols is declared the winner.
+Draw/Tie: If the entire grid is filled, and no player has formed a winning line, the game is a draw or tie.
+Blocking Opponent: Players often strategically place their symbols to block their opponent from forming a winning line.
+Continuation: The game can be played in multiple rounds, and players take turns going first.
+
+This Tic-Tac-Toe web app involves using HTML for the structure, CSS for styling, and JavaScript for interactivity.
+>>>>>>> 3a3a02967538b6da2549673bea4f92d3048d0c42
