@@ -1,5 +1,8 @@
 # Tic-Tac-Toe
-<<<<<<< HEAD
+
+## Preview 
+
+Link : [click here](https://tic-tac-toe-subhendu.netlify.app/)
 
 The Tic Tac Toe game is implemented in HTML, CSS, and JavaScript.
 Table of Contents
